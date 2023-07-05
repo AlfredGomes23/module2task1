@@ -1,0 +1,16 @@
+#divex{
+    background-image: url(FB_IMG_1490029710899.jpg);
+    border: 5px solid rgb(17, 255, 1);
+    box-shadow: 10px 10px 15px rgb(34, 155, 34);
+    border-top: none;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+#h3ex{
+    text-align: center;
+    color: chocolate;
+    text-decoration: underline;
+}
+#pex{
+    color: rgb(255, 0, 0);
+}
