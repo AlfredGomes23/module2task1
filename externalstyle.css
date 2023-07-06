@@ -1,16 +1,22 @@
-#divex{
-    background-image: url(FB_IMG_1490029710899.jpg);
-    border: 5px solid rgb(17, 255, 1);
-    box-shadow: 10px 10px 15px rgb(34, 155, 34);
-    border-top: none;
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
+#lasttwo {
+  display: flex;
+  height: 300px;
 }
-#h3ex{
-    text-align: center;
-    color: chocolate;
-    text-decoration: underline;
+#divex {
+  background-image: url(FB_IMG_1490029710899.jpg);
+  background-size: cover;
+  background-repeat: none;
+  border: 5px solid rgb(17, 255, 1);
+  box-shadow: 10px 10px 15px rgb(34, 155, 34);
+  border-top: none;
+  border-left: none;
+  border-bottom-right-radius: 15px;
 }
-#pex{
-    color: rgb(255, 0, 0);
+#h3ex {
+  text-align: center;
+  color: chocolate;
+  text-decoration: underline;
+}
+#pex {
+  color: black;
 }
